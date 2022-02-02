@@ -1,0 +1,20 @@
+{
+    "name": "eren-token-sale",
+    "version": "1.0.0",
+    "description": "Eren Token Sale ICO",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "eren gokgoz",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    },
+    "dependencies": {
+        "geth": "^0.4.0"
+    }
+}
